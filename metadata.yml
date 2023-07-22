@@ -1,0 +1,14 @@
+---
+:id: 148479880
+:submitters:
+- :name: Tejas Anand
+  :email: cs5210595@iitd.ac.in
+- :name: Kashish Goel
+  :email: cs5210602@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-13 17:16:51.595192000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-13 09:16:51.595192000 Z
+:status: processed
+:score: 50.0
