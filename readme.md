@@ -4,4 +4,4 @@
 
 2.Connect your basys3 board and load the bit file on it. To see the (i,j)th entry of the answer input the index 128*j + i on the board in hexadecimal format
 
-3. See the report for the details
+3. See the report for more details
